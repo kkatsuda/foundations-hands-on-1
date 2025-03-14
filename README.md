@@ -6,4 +6,4 @@ _italic_
 
 `hello`
 
-- [ ] check
+ - [ ] check
